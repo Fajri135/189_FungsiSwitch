@@ -15,5 +15,5 @@ int fungsiluas(int p, int l)
 
 int main()
 {
-    ;
+    int panjang, lebar;
 }

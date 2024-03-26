@@ -3,7 +3,7 @@ using namespace std;
 
 int luas;
 
-int main()
+int main() 
 {
-    ;
+	;
 }

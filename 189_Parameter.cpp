@@ -3,7 +3,12 @@ using namespace std;
 
 int luas;
 
-int main() 
+void prosedurluas(int p, int l)
 {
-	;
+    luas = p * l;
+}
+
+int main()
+{
+    ;
 }

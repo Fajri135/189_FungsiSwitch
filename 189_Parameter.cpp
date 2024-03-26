@@ -18,4 +18,6 @@ int main()
     int panjang, lebar;
     cout << "Masukan Panjang : ";
     cin >> panjang;
+    cout << "Masukan Lebar : ";
+    cin >> lebar;
 }
